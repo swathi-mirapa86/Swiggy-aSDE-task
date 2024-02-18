@@ -1,5 +1,5 @@
-#Magical Arena Game
-##Discription
+<head>Magical Arena Game</head>
+<h1>Discription</h1>
 This Java program simulates a magical arena where two players engage in battles. Each player has attributes such as health, strength, and attack.The battle continues in turns, with players rolling dice for attack and defense. The program demonstrates object-oriented principles with a Player class. The battle outcomes are displayed in the console, and there are accompanying unit tests for the Player class to ensure its functionality.
 
 #Player Class
