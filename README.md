@@ -2,19 +2,20 @@
 <h3>Discription</h1>
 This Java program simulates a magical arena where two players engage in battles. Each player has attributes such as health, strength, and attack.The battle continues in turns, with players rolling dice for attack and defense. The program demonstrates object-oriented principles with a Player class. The battle outcomes are displayed in the console, and there are accompanying unit tests for the Player class to ensure its functionality.
 
-#Player Class
+<h3>Player Class</h3>
 
-#Attributes:
+<h3>Attributes:</h3>
 health: Represents the player's health.
 strength: Represents the player's strength.
 attack: Represents the player's attack power.
 random: Used for rolling a 6-sided die.
 
-#Methods:
+<h3>Methods:</h3>
 rollDice(): Simulates rolling a 6-sided die.
 attack(Player opponent): Handles the logic for attacking an opponent.
 getHealth(), setHealth(int health), getStrength(), getAttack(): Getter and setter methods for player attributes.
-#How to Run
+
+<h3>How to Run</h3>
 
 1.extract the zip file
 2.extracted file contains one packege named as swiggyTaskk.
